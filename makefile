@@ -1,7 +1,7 @@
 #CXX = g++
 #CXX = clang++
 
-EXE = bin/test
+EXE = bin/myproject
 IMGUI_DIR = src/../
 SOURCES = src/main.cpp
 SOURCES += $(IMGUI_DIR)/imgui/imgui.cpp $(IMGUI_DIR)/imgui/imgui_demo.cpp $(IMGUI_DIR)/imgui/imgui_draw.cpp $(IMGUI_DIR)/imgui/imgui_tables.cpp $(IMGUI_DIR)/imgui/imgui_widgets.cpp
